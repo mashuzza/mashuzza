@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 #### I mostly work in:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ed0933)
-![](https://img.shields.io/badge/Code-Rstudio-informational?style=flat&logo=rstudio&logoColor=white&color=ed0933)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=rstudio&logoColor=white&color=ed0933)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=ed0933)
 
 
 #### For Stat Lovers:
 
 <a href="https://github.com/mashuzza/mashuzza">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuzza&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuzza&&layout=compact&count_private=true,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
