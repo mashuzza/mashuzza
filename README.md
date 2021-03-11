@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 
 #### For Stat Lovers:
 
-<a href="https://github.com/mashuzza/mashuzza">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashuzza&&layout=compact&count_private=true,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
