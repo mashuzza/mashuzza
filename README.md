@@ -1,15 +1,17 @@
 ### Hi there 👋 I'm Masha! 
 
+
 #### Some Facts About Me:
+
+🎨  Creating smart data visualizations
+
+💻  Optimizing Customer LTV
 
 📍 Denver, CO
 
 🏋️‍♀️ Olympic Weightlifter
 
 
-🎨  Creating smart dataviz
-
-💻  Optimizing Customer LTV
 
 
 <!--
@@ -32,7 +34,10 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ed0933)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=rstudio&logoColor=white&color=ed0933)
+
+
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=ed0933)
+![](https://img.shields.io/badge/Tools-Snowflake-informational?style=flat&logo=Snowflake&logoColor=white&color=ed0933)
 
 
 #### For Stat Lovers:
