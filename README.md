@@ -2,7 +2,14 @@
 
 #### Some Facts About Me:
 
-📍 
+📍 Denver, CO
+
+🏋️‍♀️ Olympic Weightlifter
+
+
+🎨  Creating smart dataviz
+
+💻  Optimizing Customer LTV
 
 
 <!--
