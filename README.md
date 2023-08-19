@@ -3,11 +3,7 @@
 
 #### Some Facts About Me:
 
-🎨  Creating smart data visualizations
-
-💻  Optimizing Customer LTV
-
-📍 Denver, CO
+📍 Portland, OR
 
 🏋️‍♀️ Olympic Weightlifter
 
