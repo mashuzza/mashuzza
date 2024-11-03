@@ -4,9 +4,8 @@
 **Data Analyst | Transforming raw data into actionable insights**
 
 - 💻 Improving consumer experience through data-driven solutions
-- 🚀 Coding for impact
+- 🚀 Digital Experimentation
 - 🏋️‍♀️ Olympic Weightlifter
-- 🎓 Currently learning Data Science at UT Austin
 
 <!--
 **mashuzza/mashuzza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
