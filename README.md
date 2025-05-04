@@ -1,7 +1,7 @@
 ### Hi there, curious wanderer 👋 I'm Masha! 
 
-My portfolio is currently baking in the data oven — still rising, not quite ready to serve.
-Most of my work is locked away in private repos (top secret stuff 🕵️‍♀️), but I’ll be adding more projects soon — stay tuned!
+My portfolio is currently baking in the data oven - still rising, not quite ready to serve.
+Most of my work is locked away in private repos (top secret stuff 🕵️‍♀️), but I’ll be adding more projects soon, so stay tuned!
 
 In the meantime, feel free to check out the projects in the `r-projects` and `python-projects` repos pinned below, and keep an eye out for more upcoming examples.
 
